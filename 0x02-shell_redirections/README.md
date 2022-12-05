@@ -1,1 +1,1 @@
-chmod u+x 5-firstlines
+chmod u+x 6-third_line
