@@ -1,1 +1,1 @@
-chmod u+x 6-third_line
+chmod u+x 7-file
