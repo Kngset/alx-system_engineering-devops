@@ -1,2 +1,2 @@
 '#!/bin/bash
-iiiiiiiiiiiiiiiiiiiiiiiiail -n 1 iacta >> iaicta
+tail -1 iacta >> iacta
